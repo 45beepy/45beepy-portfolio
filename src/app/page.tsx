@@ -38,10 +38,10 @@ const page = () => (
       <div className='flex mt-3 space-x-5'>
         <div className='w-80 h-80 flex justify-start text-gray-600 text-sm font-mono'>
           <p>
-            MERN Stack and Machine Learning Developer
+            Full Stack and Machine Learning Developer
         <br></br>
         <br />
-        Pravin is a final-year computer science undergraduate student at SRMIST, KTR. He is a MERN Stack developer who is currently on a quest to master Machine Learning. His strong skillsets include DSA and FullStack development (MERN). When he’s not busy coding, you’ll likely find him immersed in a sci-fi novel or catching up on the latest movies.
+        Pravin is a final-year computer science undergraduate student at SRMIST, KTR. He is a Full Stack developer who is currently on a quest to master Machine Learning. His strong skillsets include DSA and FullStack development (MERN). When he’s not busy coding, you’ll likely find him immersed in a sci-fi novel or catching up on the latest movies.
           <br />
           <br />
           He is currently trying to land a job as a Software Developer.
