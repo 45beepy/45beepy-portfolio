@@ -32,22 +32,22 @@ const Page = () => {
         <div className={`lg:flex lg:space-x-4 lg:mb-1 ${menuOpen ? 'block' : 'hidden'} lg:block`}>
           <section className='text-xl text-yellow-400 hover:w-auto hover:text-slate-600'>
             <Link href='/'>
-              <button>About</button>
+              <button>about</button>
             </Link>
           </section>
           <section className='text-xl text-red-500 hover:w-auto hover:text-slate-600'>
             <Link href='/projects'>
-              <button>Projects</button>
+              <button>projects</button>
             </Link>
           </section>
           <section className='text-xl text-red-500 hover:w-auto hover:text-slate-600'>
             <Link href='/certificates'>
-              <button>Certificates</button>
+              <button>certificates</button>
             </Link>
           </section>
           <section className='text-xl text-red-500 hover:w-auto hover:text-slate-600'>
             <Link href='/socials'>
-              <button>Socials</button>
+              <button>socials</button>
             </Link>
           </section>
         </div>
