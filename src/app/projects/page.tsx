@@ -49,7 +49,7 @@ const Page = () => {
         <div className='flex flex-col lg:flex-row h-auto lg:h-80 font-mono font-light mt-3 lg:mt-0'>
           <div className='relative mr-0 lg:mr-8 mb-4 lg:mb-0'>
             <h2 className='relative text-green-700 text-xl hover:text-blue-400 mt-1 mb-0'>
-              <Link href="https://github.com/45beepy/twitter-clone">Twitter Clone</Link>
+              <Link href="https://github.com/45beepy/twitter-clone-firebase">Twitter Clone</Link>
             </h2>
             <div className='flex w-full lg:w-80 mt-3 mb-3'>
               <p className='relative font-light text-gray-600'>
@@ -61,7 +61,7 @@ const Page = () => {
           </div>
           <div className='relative mr-0 lg:mr-8 mb-4 lg:mb-0'>
             <h2 className='relative w-full lg:w-80 text-green-700 text-xl hover:text-blue-400 mt-1 mb-0'>
-              <Link href="https://github.com/45beepy/Water-Quality-Forecasting-using-Machine-Learning">Water Quality Forecasting</Link>
+              <Link href="https://github.com/45beepy/Water-Potability-Prediciton">Water Potability Analysis</Link>
             </h2>
             <div className='flex w-full lg:w-80 mt-3 mb-3'>
               <p className='relative font-light text-gray-600'>
@@ -72,12 +72,11 @@ const Page = () => {
           </div>
           <div className='relative mr-0 lg:mr-8 mb-4 lg:mb-0'>
             <h2 className='relative w-full lg:w-80 text-green-700 text-xl hover:text-blue-400 mt-1 mb-0'>
-              <Link href="https://github.com/45beepy/library-management">Library Management</Link>
+              <Link href="https://github.com/45beepy/Haiku-Haven">Haiku Haven</Link>
             </h2>
             <div className='flex w-full lg:w-80 mt-3 mb-3'>
               <p className='relative font-light text-gray-600'>
-                A website to log books read, tracking reading progress and managing book records with features for adding, updating,
-                and deleting entries.
+              A web platform for creating and storing haikus with unique AI-generated cover images. Using Cloudinary for high-resolution image generation, the site supports full CRUD functionality, allowing users to easily manage their haiku collections.
               </p>
             </div>
           </div>
